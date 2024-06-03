@@ -28,7 +28,7 @@ GaLore is an advanced training strategy for memory-efficient training of large l
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/galore.git
+  [ git clone https://github.com/your-username/galore.git](https://github.com/sanowl/GaLore-Gradient-Low-Rank-Projection-for-Memory-Efficient-Training.git)
    ```
 
 2. Install the required dependencies:
@@ -80,4 +80,4 @@ GaLore is based on the paper "GaLore: Memory-Efficient LLM Training by Gradient 
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please contact [sanowl89@gmail.com](mailto:your-email@example.com).
